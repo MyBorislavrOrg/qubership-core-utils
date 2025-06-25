@@ -1,13 +1,7 @@
-**/target/
-
-# idea 
-.idea
-*.iml
-
-# eclipse 
-.classpath
-.project
-.settings/
-
-# vscode
 .vscode
+.idea
+node_modules
+.DS_Store
+dist
+coverage
+.env
